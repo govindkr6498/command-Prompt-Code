@@ -50,23 +50,7 @@ scp -i "C:/Users/lenovo/Documents/BOAT/src/kumar.pem" "C:/Users/lenovo/Downloads
 
 scp -i "C:\Users\lenovo\Documents\BOAT\src\gk.pem" "C:\Users\lenovo\Downloads\ApexDeveloperGuidea.pdf" ubuntu@54.88.95.96:/home/ubuntu/
 
-
-scp C:\Users\your-user\Documents\.env ubuntu@18.222.45.67:/home/ubuntu/
-
-
-
-
-
-
-
 scp -i C:/Users/lenovo/Documents/BOAT/src/Govind.pem C:/Users/lenovo/Downloads/ApexDeveloperGuidea.pdf ubuntu@65.0.87.26:/home/ubuntu
 
 
-
-scp -i C:/Users/lenovo/Documents/BOAT/src/ConnectBoat.pem C:/Users/lenovo/Downloads/ApexDeveloperGuidea.pdf ubuntu@3.85.122.103:/home/ubuntu
-
-
-scp C:/Users/lenovo/Documents/BOAT/src/.env ubuntu@3.85.122.103:/home/ubuntu/
-
-
-scp C:/Users/lenovo/Documents/BOAT/src/.env ubuntu@3.85.122.103:/home/ubuntu/
+Deployee the Html code :https://www.youtube.com/watch?v=-l83oqcaTHg&t=130s

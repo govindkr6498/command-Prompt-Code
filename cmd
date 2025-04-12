@@ -18,8 +18,8 @@ server {
 
 6. sudo service nginx restart
 7. git clone "github url" // https://github.com/govindkr6498/GovindChatGpt.git
-8. cat requirements.txt
-9.  pip3 install -r requirements.txt
+8. cd github_Name
+9. cat requirements.txt
 10. sudo apt update
 11. sudo apt install python3.12-venv
 12. sudo apt install python3-venv
@@ -54,3 +54,18 @@ scp -i C:/Users/lenovo/Documents/BOAT/src/Govind.pem C:/Users/lenovo/Downloads/A
 
 
 Deployee the Html code :https://www.youtube.com/watch?v=-l83oqcaTHg&t=130s
+
+
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "PublicReadGetObject",
+      "Effect": "Allow",
+      "Principal": "*",
+      "Action": "s3:GetObject",
+      "Resource": "arn:aws:s3:::iquestbee3/*"
+    }
+  ]
+}
+

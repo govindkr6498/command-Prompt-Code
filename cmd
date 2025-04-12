@@ -33,7 +33,8 @@ server {
 
 19. python3 -m uvicorn app:app
 
-20.
+20. python3 -m uvicorn app:app --host 0.0.0.0 --port 8000
+
 pip install fastapi pydantic langchain langchain_community langchain_openai fastapi[all] pypdf2 python-dotenv
 
 

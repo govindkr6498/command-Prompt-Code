@@ -70,3 +70,4 @@ Deployee the Html code :https://www.youtube.com/watch?v=-l83oqcaTHg&t=130s
   ]
 }
 
+uvicorn app:app --reload

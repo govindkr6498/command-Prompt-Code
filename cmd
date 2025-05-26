@@ -71,3 +71,5 @@ Deployee the Html code :https://www.youtube.com/watch?v=-l83oqcaTHg&t=130s
 }
 
 uvicorn app:app --reload
+
+PS C:\Users\admin\Documents\Document\Bot\src> scp -i "..\..\Bot\src\Keypair.pem" FSTC_Contact.pdf ubuntu@52.90.205.110:/home/ubuntu/AgenticBotImplementation/
